@@ -16,5 +16,5 @@ Denver County reported as 82.8% (306,055) of the total votes.
 Arapahoe County reported 6.7% (24,801) of the total votes.
 Denver county had a substantially higher voter turnout than both Jefferson and Denver counties combined. 
 Charles Stockham received 23%(85,213) of the vote, Diana DeGette received 73.8%(272,892) of the vote, and Raymon Doane received 3.1%(11,606) of the vote, making Diane DeGette the winner of this congressional election.She received well over 50% of the total votes.
-##Election Audit Summary
+## Election Audit Summary
 This script can be used for a number of things. If this CSV also added a "political party" column, then we could modify the code so as to read back percentages of republican/democrat/other voters per the given counties. Such information could prove useful in future election predictions. This code could also be used to integrate voter information(if relinquished to us) to provide us a more in-depth analysis of which demographics are voting for any said candidate.
