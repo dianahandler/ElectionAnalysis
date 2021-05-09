@@ -1,6 +1,6 @@
 # Election Analysis
 ## Overview of Election Analysis
-The election commission has requested data from the election in three counties to be analyzed and a thorough audit be reported. 
+The election commission has requested data from the election in three counties to be analyzed and a thorough audit be reported. Information pertaining votes for 3 counties and 3 candidates was collected and analyzed through python, generating various output.
 - The number of votes cast in the congressional election 
 - Analyze the number of votes and percentages of total votes for each county
 - Determine which county had the largest number of votes
